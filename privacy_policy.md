@@ -1,8 +1,8 @@
 **Privacy Policy for Sarkari Yojana Punjab**
 
-Effective Date: [Insert Date]
+Effective Date: 04/01/2024
 
-Thank you for using Sarkari Yojana Punjab (the "App"). This Privacy Policy outlines how we collect, use, and disclose information when you use our mobile application.
+Thank you for using Sarkari Yojana Punjab. This Privacy Policy outlines how we collect, use, and disclose information when you use our mobile application.
 
 ### 1. Information We Collect:
 
@@ -38,7 +38,7 @@ Thank you for using Sarkari Yojana Punjab (the "App"). This Privacy Policy outli
 
 ### 6. Contact Us:
 
-- If you have any questions or concerns regarding this Privacy Policy or the App's privacy practices, please contact us at [contact@example.com].
+- If you have any questions or concerns regarding this Privacy Policy or the App's privacy practices, please contact us at [prashant.dev.701@gmail.com].
 
 By using the Sarkari Yojana Punjab App, you agree to the terms outlined in this Privacy Policy.
 
